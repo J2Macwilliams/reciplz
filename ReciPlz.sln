@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReciPlz", "ReciPlz\ReciPlz.csproj", "{B2476813-5D11-4652-A662-E46AD6C79CFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2476813-5D11-4652-A662-E46AD6C79CFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2476813-5D11-4652-A662-E46AD6C79CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2476813-5D11-4652-A662-E46AD6C79CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2476813-5D11-4652-A662-E46AD6C79CFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B21F1B2-B05E-4003-BCEF-9B4CF2B88789}
+	EndGlobalSection
+EndGlobal
